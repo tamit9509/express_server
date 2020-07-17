@@ -23,7 +23,7 @@
     "handlebars": "^4.1.2",
     "joi": "^14.3.0",
     "jsonwebtoken": "^8.4.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mongoose": "^5.3.13",
     "nodemailer": "^6.1.1",
     "sendinblue-api": "^1.0.8",
