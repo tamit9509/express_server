@@ -14,7 +14,7 @@
   "author": "chicmic",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.3",
     "cron": "^1.6.0",
     "express": "^4.16.4",
